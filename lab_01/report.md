@@ -8,6 +8,8 @@
 
 ![](imgs/img.png)
 
+[Файл lab1_bus.pkt](lab1_bus.pkt)
+
 Команда ping работает корректно:
 
 ![](imgs/img_1.png)
@@ -17,6 +19,8 @@
 Вид топологии:
 
 ![](imgs/img_2.png)
+
+[Файл lab1_star.pkt](lab1_star.pkt)
 
 Команда ping работает корректно:
 
@@ -28,11 +32,15 @@
 
 ![](imgs/img_4.png)
 
+[Файл lab1.pkt](lab1.pkt)
+
 ### Дефекты
 
 Вид после исправления дефектов:
 
 ![](imgs/img_5.png)
+
+[Файл lab1_fixed.pkt](lab1_fixed.pkt)
 
 Команда ping работает корректно:
 
@@ -41,3 +49,5 @@
 ### Домены коллизий
 
 ![](imgs/img_7.png)
+
+[Файл lab1_fixed_domains.pkt](lab1_fixed_domains.pkt)
