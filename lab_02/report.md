@@ -1,6 +1,6 @@
 # Компьютерные сети. Лабораторная работа № 2
 
-### [Руководство к ЛР](https://networking-labs.ru/mod/assign/view.php?id=228)
+### [Руководство к ЛР](https://networking-labs.ru/mod/assign/view.php?id=228) | [Код](https://github.com/dKosarevsky/networks/tree/main/lab_02/src)
 
 ## Часть I.
 
